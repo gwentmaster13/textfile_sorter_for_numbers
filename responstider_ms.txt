@@ -1,0 +1,18 @@
+# Responstider for /api/v1/auth
+12.3 ms
+10.8
+9,7 ms
+timeout
+15.1ms
+# peak trafikk:
+22.9
+  11.0  ms
+feil: socket reset
+8.9
+15,5
+  12.9
+11.6 ms
+-
+6.7   
+7
+9

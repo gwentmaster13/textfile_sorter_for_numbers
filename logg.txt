@@ -1,0 +1,19 @@
+(1) line ignored: "# Responstider for /api/v1/auth" 
+Reason: Commented or empty line
+(5) line failed to validate: : "timeout" 
+Reason: Line consists only of string(s)
+(6) line failed to validate: : "15.1ms" 
+Reason: Line consists only of string(s)
+(7) line ignored: "# peak trafikk:" 
+Reason: Commented or empty line
+(10) line failed to validate: : "feil: socket reset" 
+Reason: Line consists only of string(s)
+(15) line failed to validate: : "-" 
+Reason: Line consists only of string(s)
+=========RESULTS==========
+Valid lines: 12
+Ignored lines: 2
+Lines with fails: 4
+Max. value: 22.90
+Min. value: 6.70
+Average value: 11.53

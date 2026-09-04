@@ -1,0 +1,17 @@
+12.3
+10.8
+9.7
+22.9
+11.0
+8.9
+15.5
+12.9
+11.6
+6.7
+7.0
+9.0
+Valid lines: 12
+Average value: 11.525
+Sum of data: 138.30
+Max. value: 22.90
+Min. value: 6.70
